@@ -1,0 +1,22 @@
+PODS:
+  - Texts (1.0.4)
+
+DEPENDENCIES:
+  - Texts (from `https://github.com/carloshpdoc/SDKDesignSystem.git`, tag `Texts-1.0.4`)
+
+EXTERNAL SOURCES:
+  Texts:
+    :git: https://github.com/carloshpdoc/SDKDesignSystem.git
+    :tag: Texts-1.0.4
+
+CHECKOUT OPTIONS:
+  Texts:
+    :git: https://github.com/carloshpdoc/SDKDesignSystem.git
+    :tag: Texts-1.0.4
+
+SPEC CHECKSUMS:
+  Texts: be8d9e5ac1fa5db0c5f3f95d07db97622284c603
+
+PODFILE CHECKSUM: 24c032eb2030f33b36892f352ede3e184abdafb0
+
+COCOAPODS: 1.11.2
